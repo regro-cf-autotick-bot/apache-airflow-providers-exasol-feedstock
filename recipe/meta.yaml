@@ -22,7 +22,7 @@ requirements:
     - setuptools
     - wheel
   run:
-    - apache-airflow >=2.0.0
+    - apache-airflow >=2.1.0
     - pyexasol >=0.5.1,<1.0.0
     - python >=3.6
 
