@@ -40,6 +40,7 @@ Installing `apache-airflow-providers-exasol` from the `conda-forge` channel can 
 
 ```
 conda config --add channels conda-forge
+conda config --set channel_priority strict
 ```
 
 Once the `conda-forge` channel has been enabled, `apache-airflow-providers-exasol` can be installed with:
