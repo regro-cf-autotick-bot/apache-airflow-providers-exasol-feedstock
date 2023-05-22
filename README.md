@@ -1,11 +1,11 @@
-About apache-airflow-providers-exasol
-=====================================
+About apache-airflow-providers-exasol-feedstock
+===============================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/apache-airflow-providers-exasol-feedstock/blob/main/LICENSE.txt)
 
 Home: https://airflow.apache.org/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/apache-airflow-providers-exasol-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provider for Apache Airflow. Implements apache-airflow-providers-exasol package
 
